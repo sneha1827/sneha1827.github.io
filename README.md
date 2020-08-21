@@ -1,2 +1,2 @@
 # sneha1827.github.io
-Module_2_solution
+Coursera HTML CSS JAVASCRIPT for Web Developers
